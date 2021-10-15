@@ -1,0 +1,2 @@
+# bnuuyxyz
+Static Site
